@@ -234,8 +234,7 @@ function portfolioComponent () {
     var tab = window.open(url, '_blank')
     tab.focus()
   }
-  var element = template()
-  return element
+
 }
 
 /*--------------------------------------------------------------------------------
