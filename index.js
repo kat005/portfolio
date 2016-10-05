@@ -230,7 +230,7 @@ function portfolioComponent () {
     yo.update(element, newElement)
   }
    function openNewTab() {
-     var url = ""
+    var url = "https://kat005.github.io/quiz/"
     var tab = window.open(url, '_blank')
     tab.focus()
   }
